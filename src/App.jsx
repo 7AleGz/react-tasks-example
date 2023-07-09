@@ -3,7 +3,7 @@ import TaskList from "./components/TaskList.jsx";
 
 function App() {
   return (
-    <main className="bg-zinc-900 h-screen">
+    <main className="bg-zinc-900">
       <div className="container mx-auto p-10">
         <TaskForm />
         <TaskList />
